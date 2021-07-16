@@ -1,0 +1,6 @@
+E:\OneDrive\VisualStudio\NetCoreServer\NetCoreServer\obj\Debug\NetCoreServer.csproj.AssemblyReference.cache
+E:\OneDrive\VisualStudio\NetCoreServer\NetCoreServer\obj\Debug\NetCoreServer.csproj.CoreCompileInputs.cache
+E:\OneDrive\VisualStudio\NetCoreServer\NetCoreServer\bin\Debug\NetCoreServer.dll
+E:\OneDrive\VisualStudio\NetCoreServer\NetCoreServer\bin\Debug\NetCoreServer.pdb
+E:\OneDrive\VisualStudio\NetCoreServer\NetCoreServer\obj\Debug\NetCoreServer.dll
+E:\OneDrive\VisualStudio\NetCoreServer\NetCoreServer\obj\Debug\NetCoreServer.pdb
