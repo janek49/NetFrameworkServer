@@ -4,3 +4,9 @@ E:\OneDrive\VisualStudio\NetCoreServer\NetCoreServer\bin\Debug\NetFrameworkServe
 E:\OneDrive\VisualStudio\NetCoreServer\NetCoreServer\bin\Debug\NetFrameworkServer.pdb
 E:\OneDrive\VisualStudio\NetCoreServer\NetCoreServer\obj\Debug\NetFrameworkServer.dll
 E:\OneDrive\VisualStudio\NetCoreServer\NetCoreServer\obj\Debug\NetFrameworkServer.pdb
+E:\OneDrive\VisualStudio\NetFrameworkServer\NetFrameworkServer\bin\Debug\NetFrameworkServer.dll
+E:\OneDrive\VisualStudio\NetFrameworkServer\NetFrameworkServer\bin\Debug\NetFrameworkServer.pdb
+E:\OneDrive\VisualStudio\NetFrameworkServer\NetFrameworkServer\obj\Debug\NetFrameworkServer.csproj.AssemblyReference.cache
+E:\OneDrive\VisualStudio\NetFrameworkServer\NetFrameworkServer\obj\Debug\NetFrameworkServer.csproj.CoreCompileInputs.cache
+E:\OneDrive\VisualStudio\NetFrameworkServer\NetFrameworkServer\obj\Debug\NetFrameworkServer.dll
+E:\OneDrive\VisualStudio\NetFrameworkServer\NetFrameworkServer\obj\Debug\NetFrameworkServer.pdb
