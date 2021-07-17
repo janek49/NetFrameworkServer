@@ -7,7 +7,7 @@ namespace NetFrameworkServer
         public static T[] ArrayRange<T>(T[] array, int start, int end)
         {
             T[] tmp = new T[end - start];
-            Array.Copy(array, start, tmp, 0, end);
+            Array.Copy(array, start, tmp, 0, tmp.length);
             return tmp;
         }
     }
